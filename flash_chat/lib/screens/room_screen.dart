@@ -25,6 +25,8 @@ class _RoomScreenState extends State<RoomScreen> {
         },
         child: Card(
           color: Colors.lightBlueAccent,
+          shape:
+              RoundedRectangleBorder(borderRadius: BorderRadius.circular(10.0)),
           child: Center(
             child: Text(
               title,
