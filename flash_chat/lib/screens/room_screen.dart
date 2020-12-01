@@ -70,6 +70,8 @@ class _RoomScreenState extends State<RoomScreen> {
             roomCard('Career(Discuss)', 'Career Discussion'),
             roomCard('Hangout', 'Hangout and Chill '),
             roomCard('Unpopular Opinion', 'Unpopular Opinion'),
+            roomCard('Hobby Discussions', 'Hobby Discussions'),
+            roomCard('Political Viewpoints', 'Political Viewpoints'),
           ],
         ),
       ),
